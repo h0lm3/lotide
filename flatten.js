@@ -14,3 +14,4 @@ function flatten(arr) {
  
   console.log(result);
   
+

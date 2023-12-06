@@ -8,6 +8,10 @@ function flatten(arr) {
         flattenedArray.push(element);
       }
     }
+
+    
+
+
   
     return flattenedArray;
   }
